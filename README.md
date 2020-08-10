@@ -11,5 +11,5 @@ int main(void)
 ```
 # How to code
 I don't know.
-![](assets/2.jpg)
-![](assets/1.png)
+![](2.jpg)
+![](1.png)
