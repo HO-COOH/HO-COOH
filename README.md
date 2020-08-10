@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**HO-COOH/HO-COOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# LOL
+How to trigger a C++ programmer
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int main(void)
+{
+    cout << "Are you mad?" << endl;
+    return 0;
+}
+```
+# How to code
+I don't know.
+[](assets/2.jpg)
+[](assets/1.png)
