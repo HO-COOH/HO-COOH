@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HO-COOH&theme=dark"/>
 </a>
-*I am somehow able to only ~~be familiar with~~ know and use 1 programming to finish my master's degree*  
+*I am somehow able to only ~~be familiar with~~ know and use 1 programming language to finish my master's degree*  
 # LOL
 How to trigger a C++ programmer
 ```cpp
